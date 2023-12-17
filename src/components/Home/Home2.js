@@ -29,7 +29,7 @@ function Home2() {
               data visualisations & techniques.
               <p>
                 {" "}
-                Currently I'm a third year student pursuing B.Tech in Computer
+                Currently I'm a final year student pursuing B.Tech in Computer
                 Science at{" "}
                 <span className="highlight">
                   {" "}
